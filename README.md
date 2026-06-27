@@ -1,7 +1,7 @@
 # Simple Banking System
 
 ## Description
-A Java-based console application that simulates basic banking operations.
+A simple banking management system built using Java, MySQL, and JDBC.
 
 ## Features
 - Create Account
